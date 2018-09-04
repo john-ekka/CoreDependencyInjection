@@ -1,0 +1,14 @@
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\bin\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.deps.json
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\bin\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.runtimeconfig.json
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\bin\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.runtimeconfig.dev.json
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\bin\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.dll
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\bin\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.pdb
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.csprojAssemblyReference.cache
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.csproj.CoreCompileInputs.cache
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.RazorAssemblyInfo.cache
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.RazorAssemblyInfo.cs
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.AssemblyInfoInputs.cache
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.AssemblyInfo.cs
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.RazorTargetAssemblyInfo.cache
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.dll
+c:\users\k307521\source\repos\IN\CoreDI-InterfaceConfiguration\CoreDI-InterfaceConfiguration\obj\Debug\netcoreapp2.1\CoreDI-InterfaceConfiguration.pdb
